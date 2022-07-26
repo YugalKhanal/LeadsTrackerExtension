@@ -22,3 +22,14 @@ body{
     color: white;
     border: 1px solid 5f9341;
 }
+
+#box{
+    text-align: center;
+    cursor: pointer;
+    margin: 20px;
+    color: white;
+    font-weight: bold;
+    padding: 40px;
+    background-color: #47cac5;
+    width: 200px;
+}
