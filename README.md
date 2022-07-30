@@ -5,7 +5,6 @@ Creating a chrome extension that stores any links you need on the browser. Don't
 
 
 To try out the extension:
-    - Go to chrome://extensions/
-    - Turn on developer mode on the top right
-    - Click "Load unpacked" and add the project folder along with the "manifest.json"
-    
+- Go to chrome://extensions/
+- Turn on developer mode on the top right
+- Click "Load unpacked" and add the project folder along with the "manifest.json"
